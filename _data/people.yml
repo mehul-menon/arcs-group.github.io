@@ -80,6 +80,23 @@
     Hopefully, he can enjoy his days at CMU and do some meaningful work.  
     He is also interested in Soccer, Poker, Chinese Chess & Nintendo Switch, by the way.
 
+- name: Vaibhav Sanjay
+  role: masters
+  webpage: https://www.linkedin.com/in/vaibhav-sanjay/
+  enrollment: Master of Science in Robotics, Class 2027
+  headshot: /photos/members/vaibhavsanjay.png
+  bio: Vaibhav received Bachelor's degrees in Computer Science and Mathematics from the University of Maryland, College 
+    Park in 2025. His research interests are in multi-agent robotics, reinforcement learning, and diffusion models.
+    
+- name: Srikar Gouru
+  role: masters
+  webpage: https://srikarg89.github.io/
+  enrollment: Master of Science in Robotics, Class 2027
+  headshot: /photos/members/srikargouru.jpg
+  bio: Srikar earned a B.S in Computer Science from the University of Virginia in 2025.
+    His research interests include traditional and learning-based approaches to multi-robot planning and cooperative task planning.
+    His goal is to coordinate mobile robots to complete complex tasks faster and more effectively than a single robot could.
+
 - name: Cheng Qian
   role: undergrad
   enrollment: CS undergraduate, Class 2025
